@@ -1,1 +1,1 @@
-# RDU
+# Rank dependent utility
